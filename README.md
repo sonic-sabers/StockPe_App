@@ -1,6 +1,6 @@
 # StockPe_App
 
-This is the app of Nutom which is an Finiance based Start Up 
+This is the app of StockPe which is an Finiance based Start Up 
 
 - Easy to Use
 - Firebase Linked Form
