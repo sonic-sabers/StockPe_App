@@ -8,14 +8,14 @@ This is the app of StockPe which is an Finiance based Start Up
 
 ## Main App
 
-|                          Home Screen                        |                          Form Screen                          |                         Details Screen #1                         |
+|                          Splash Screen                        |                          Tournament Screen                          |                         Calendar Screen #1                         |
 | :-----------------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------------------: |
-![](/snapshots/Home.jpg)| ![](/snapshots/NuTomAppForm.jpg)| ![](/snapshots/Details1.jpg)| 
+![](/Snips/Splash.jpeg)| ![](/Snips/Tournament.jpeg)| ![](/Snips/Calendar.jpeg)| 
 
 
-|                          Details Screen #2                          |                          Details Screen #3                         
+|                          Account Screen                          |                          Login Screen                          
 | :-----------------------------------------------------------: | :-----------------------------------------------------------: |
-|  ![](/snapshots/Details2.jpg)| ![](/snapshots/Details3.jpg)| 
+|  ![](/Snips/Account.jpeg)| ![](/Snips/Login.jpeg)| 
 
 
 ## Configuration Steps
